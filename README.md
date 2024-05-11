@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-[![Top Langs](https://github-readme-stats-three-green-25.vercel.app/api/top-langs/?username=gaohalberd&hide=jupyter%20notebook,html&layout=compact&theme=cobalt)](https://github.com/gaohalberd/github-readme-stats)
+[![Top Langs](https://github-readme-stats-three-green-25.vercel.app/api/top-langs/?username=gaohalberd&hide=jupyter%20notebook,html,Shaderlab&layout=compact&theme=cobalt)](https://github.com/gaohalberd/github-readme-stats)
 
 [![Rex's github stats](https://github-readme-stats-three-green-25.vercel.app/api?username=gaohalberd&show_icons=true&theme=cobalt)](https://github.com/gaohalberd/github-readme-stats)
 
