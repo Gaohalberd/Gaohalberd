@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+[![Top Langs](https://github-readme-stats-three-green-25.vercel.app/api/top-langs/?username=gaohalberd&hide=jupyter%20notebook,html&layout=compact&theme=cobalt)](https://github.com/gaohalberd/github-readme-stats)
+
+[![Rex's github stats](https://github-readme-stats-three-green-25.vercel.app/api?username=gaohalberd&show_icons=true&theme=cobalt)](https://github.com/gaohalberd/github-readme-stats)
 
 <!--
 **Gaohalberd/Gaohalberd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
